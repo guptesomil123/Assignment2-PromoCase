@@ -91,7 +91,7 @@ pull-forward and organic demand.
   absorbed a meaningful share of that growth, putting DTC-specific growth at
   ~1.18–1.25x. The 1.18x assignment input is therefore conservative but
   defensible. The $250M LinkedIn projection proved overstated (actual: $150M),
-  which is why the high case is capped at 1.25x rather than 1.30x.
+  which is why the high case is capped at 1.25x rather than 1.30x. (Reference - https://www.linkedin.com/pulse/issue-69-cymbiotika-supplement-brand-grew-100x-4-years-campbell-nzmhe/)
 - **Promo AOV adjustment (0.84x mid):** Observed this year: TY promo AOV was
   $99.80 vs baseline $118.31 — a 15.7% compression, in line with expectations
   for a 20% sitewide discount partially offset by larger baskets.
