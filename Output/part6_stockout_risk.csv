@@ -1,0 +1,10 @@
+sku,product_name,tier,current_inventory,total_2wk_units_low,total_2wk_units_mid,total_2wk_units_high,risk_flag,gap_mid,gap_high,cover_days_mid
+CYM-MAG-30,Magnesium L-Threonate,High,315,571.7,704.2,810.2,🔴 Critical,-389.2,-495.2,6.3
+CYM-COL-30,Marine Collagen,High,211,416.8,510.3,585.2,🔴 Critical,-299.3,-374.2,5.8
+CYM-VTC-30,Liposomal Vitamin C,High,233,432.3,525.2,599.8,🔴 Critical,-292.2,-366.8,6.2
+CYM-ASH-30,Ashwagandha + L-Theanine,High,458,585.5,722.3,831.6,🔴 Critical,-264.3,-373.6,8.9
+CYM-VTD-30,Vitamin D3 + K2,High,261,382.4,467.5,535.6,🔴 Critical,-206.5,-274.6,7.8
+CYM-OMG-60,Omega-3 DHA,High,218,347.7,423.8,484.8,🔴 Critical,-205.8,-266.8,7.2
+CYM-PRO-30,Probiotic Daily,High,456,527.6,650.2,748.3,🔴 Critical,-194.2,-292.3,9.8
+CYM-GLU-30,Liposomal Glutathione,High,499,551.1,679.7,782.5,🔴 Critical,-180.7,-283.5,10.3
+CYM-MTB-30,Methylated B Complex,High,273,310.5,373.5,424.2,🔴 Critical,-100.5,-151.2,10.2

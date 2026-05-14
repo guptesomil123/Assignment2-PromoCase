@@ -1,0 +1,28 @@
+sku,product_name,category,unit_price,tier,current_inventory,baseline_weekly,scenario,promo_weekly_units,post_weekly_units,total_2wk_units,promo_revenue,post_revenue,total_2wk_revenue
+CYM-GLU-30,Liposomal Glutathione,Antioxidant,78.0,High,499,104.2,low,467.3,83.8,551.1,29160.33,6536.47,35696.81
+CYM-GLU-30,Liposomal Glutathione,Antioxidant,78.0,High,499,104.2,mid,589.8,89.9,679.7,36801.27,7011.85,43813.13
+CYM-GLU-30,Liposomal Glutathione,Antioxidant,78.0,High,499,104.2,high,687.2,95.2,782.5,42882.84,7427.81,50310.65
+CYM-VTC-30,Liposomal Vitamin C,Immunity,52.0,High,233,109.9,low,324.6,107.7,432.3,13504.69,5599.55,19104.24
+CYM-VTC-30,Liposomal Vitamin C,Immunity,52.0,High,233,109.9,mid,409.7,115.5,525.2,17043.35,6006.79,23050.15
+CYM-VTC-30,Liposomal Vitamin C,Immunity,52.0,High,233,109.9,high,477.4,122.4,599.8,19859.84,6363.13,26222.97
+CYM-VTD-30,Vitamin D3 + K2,Immunity,48.0,High,261,100.4,low,302.4,80.0,382.4,11611.35,3841.59,15452.94
+CYM-VTD-30,Vitamin D3 + K2,Immunity,48.0,High,261,100.4,mid,381.6,85.9,467.5,14653.9,4120.98,18774.88
+CYM-VTD-30,Vitamin D3 + K2,Immunity,48.0,High,261,100.4,high,444.7,90.9,535.6,17075.52,4365.44,21440.96
+CYM-MAG-30,Magnesium L-Threonate,Sleep,62.0,High,315,103.0,low,480.4,91.3,571.7,23827.99,5659.4,29487.38
+CYM-MAG-30,Magnesium L-Threonate,Sleep,62.0,High,315,103.0,mid,606.3,97.9,704.2,30071.69,6070.99,36142.67
+CYM-MAG-30,Magnesium L-Threonate,Sleep,62.0,High,315,103.0,high,706.5,103.7,810.2,35041.16,6431.13,41472.29
+CYM-OMG-60,Omega-3 DHA,Heart,55.0,High,218,99.1,low,268.3,79.3,347.7,11807.18,4363.82,16171.0
+CYM-OMG-60,Omega-3 DHA,Heart,55.0,High,218,99.1,mid,338.7,85.1,423.8,14901.04,4681.19,19582.23
+CYM-OMG-60,Omega-3 DHA,Heart,55.0,High,218,99.1,high,394.6,90.2,484.8,17363.5,4958.89,22322.39
+CYM-MTB-30,Methylated B Complex,Energy,58.0,High,273,99.5,low,213.4,97.2,310.5,9900.23,5635.24,15535.47
+CYM-MTB-30,Methylated B Complex,Energy,58.0,High,273,99.5,mid,269.3,104.2,373.5,12494.41,6045.08,18539.48
+CYM-MTB-30,Methylated B Complex,Energy,58.0,High,273,99.5,high,313.8,110.4,424.2,14559.16,6403.68,20962.84
+CYM-PRO-30,Probiotic Daily,Gut,65.0,High,456,98.5,low,445.1,82.5,527.6,23143.12,5364.28,28507.4
+CYM-PRO-30,Probiotic Daily,Gut,65.0,High,456,98.5,mid,561.7,88.5,650.2,29207.36,5754.41,34961.77
+CYM-PRO-30,Probiotic Daily,Gut,65.0,High,456,98.5,high,654.5,93.8,748.3,34034.0,6095.77,40129.77
+CYM-ASH-30,Ashwagandha + L-Theanine,Stress,49.0,High,458,102.5,low,497.4,88.1,585.5,19498.86,4317.32,23816.19
+CYM-ASH-30,Ashwagandha + L-Theanine,Stress,49.0,High,458,102.5,mid,627.8,94.5,722.3,24608.19,4631.31,29239.5
+CYM-ASH-30,Ashwagandha + L-Theanine,Stress,49.0,High,458,102.5,high,731.5,100.1,831.6,28674.8,4906.05,33580.85
+CYM-COL-30,Marine Collagen,Beauty,68.0,High,211,98.1,low,333.8,83.0,416.8,18158.45,5646.65,23805.1
+CYM-COL-30,Marine Collagen,Beauty,68.0,High,211,98.1,mid,421.3,89.1,510.3,22916.54,6057.32,28973.86
+CYM-COL-30,Marine Collagen,Beauty,68.0,High,211,98.1,high,490.9,94.4,585.2,26703.6,6416.65,33120.25

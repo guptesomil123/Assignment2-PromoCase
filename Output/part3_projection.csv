@@ -1,0 +1,4 @@
+scenario,YoY growth multiplier,Uplift scalar,AOV adjustment,Combined unit multiplier,Projected total units,Projected total orders,Projected promo AOV ($),Projected total revenue ($),Proj avg daily orders,Proj avg daily revenue ($)
+low,1.1,0.85,0.82,0.935,2490,1214,97.02,117748.44,404.6,39249.48
+mid,1.18,1.0,0.87,1.18,3142,1532,102.93,157663.43,510.6,52554.48
+high,1.25,1.1,0.92,1.375,3662,1785,108.85,194276.48,595.0,64758.83
